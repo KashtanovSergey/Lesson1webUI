@@ -1,0 +1,291 @@
+{
+  "id": "e4908556-9ceb-430d-a036-4d7670624e86",
+  "version": "2.0",
+  "name": "Test pizza",
+  "url": "https://3332222.ru",
+  "tests": [{
+    "id": "f8d93b08-2a30-41d5-96c4-f958331de986",
+    "name": "Sergey_Vladimirovich",
+    "commands": [{
+      "id": "82989687-f952-42df-8493-583be23da4fd",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3540d122-a1e2-47d6-a5c0-5397ab904ddb",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "840x816",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "68498a52-5817-44bf-8fda-9e286df9c66a",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.react-multi-carousel-item--active .item_1jYVY",
+      "targets": [
+        ["css=.react-multi-carousel-item--active .item_1jYVY", "css:finder"],
+        ["xpath=//div[@id='content']/section/div/ul/li[3]/a/img", "xpath:idRelative"],
+        ["xpath=//div/ul/li[3]/a/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "25ece7ad-1636-42c5-bb38-abe313c40ce5",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.react-multi-carousel-item--active .item_1jYVY",
+      "targets": [
+        ["css=.react-multi-carousel-item--active .item_1jYVY", "css:finder"],
+        ["xpath=//div[@id='content']/section/div/ul/li[3]/a/img", "xpath:idRelative"],
+        ["xpath=//div/ul/li[3]/a/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "7b9acd34-a756-43ce-a91b-875a1855e106",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.react-multi-carousel-item--active > .undefined",
+      "targets": [
+        ["css=.react-multi-carousel-item--active > .undefined", "css:finder"],
+        ["xpath=//div[@id='content']/section/div/ul/li[3]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://3332222.ru/akcii/happy-birthday-pizza-mafia/')]", "xpath:href"],
+        ["xpath=//div/ul/li[3]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ebb454bd-e258-44cb-a0fb-cc37c4d3b0bb",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.react-multi-carousel-item--active > .undefined",
+      "targets": [
+        ["css=.react-multi-carousel-item--active > .undefined", "css:finder"],
+        ["xpath=//div[@id='content']/section/div/ul/li[3]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://3332222.ru/akcii/happy-birthday-pizza-mafia/')]", "xpath:href"],
+        ["xpath=//div/ul/li[3]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "7bdacbf3-0b94-4c2e-b912-801d7a2a7102",
+      "comment": "",
+      "command": "click",
+      "target": "css=.oneOf-13_2D2IJ:nth-child(1) img",
+      "targets": [
+        ["css=.oneOf-13_2D2IJ:nth-child(1) img", "css:finder"],
+        ["xpath=//div[@id='root']/aside/div/nav/ul/li/a/img", "xpath:idRelative"],
+        ["xpath=//img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "7dab6018-d314-4d98-8895-daaf978aef44",
+      "comment": "",
+      "command": "click",
+      "target": "css=.oneOf-13_2D2IJ:nth-child(2) > a",
+      "targets": [
+        ["css=.oneOf-13_2D2IJ:nth-child(2) > a", "css:finder"],
+        ["xpath=//div[@id='root']/aside/div/nav/ul/li[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/menu/picca/')]", "xpath:href"],
+        ["xpath=//li[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3b2bf56d-9677-4c16-98d1-723de385e7db",
+      "comment": "",
+      "command": "click",
+      "target": "css=.oneOf-13_2D2IJ:nth-child(3) > a",
+      "targets": [
+        ["css=.oneOf-13_2D2IJ:nth-child(3) > a", "css:finder"],
+        ["xpath=//div[@id='root']/aside/div/nav/ul/li[3]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/menu/nabory/')]", "xpath:href"],
+        ["xpath=//li[3]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8bc7d2f0-219c-4ff7-92f9-7f3fd054c36d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.oneOf-13_2D2IJ:nth-child(4) img",
+      "targets": [
+        ["css=.oneOf-13_2D2IJ:nth-child(4) img", "css:finder"],
+        ["xpath=//div[@id='root']/aside/div/nav/ul/li[4]/a/img", "xpath:idRelative"],
+        ["xpath=//li[4]/a/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "7a8c1c2e-9c52-4bc8-b423-6b9efb9c0961",
+      "comment": "",
+      "command": "click",
+      "target": "css=.oneOf-13_2D2IJ:nth-child(5) span",
+      "targets": [
+        ["css=.oneOf-13_2D2IJ:nth-child(5) span", "css:finder"],
+        ["xpath=//div[@id='root']/aside/div/nav/ul/li[5]/a/span", "xpath:idRelative"],
+        ["xpath=//li[5]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'WOK')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "60136256-aab6-4ea8-abb8-8efbffad2bce",
+      "comment": "",
+      "command": "click",
+      "target": "css=.menu-container_2LIAJ > li:nth-child(1) > a",
+      "targets": [
+        ["css=.menu-container_2LIAJ > li:nth-child(1) > a", "css:finder"],
+        ["xpath=//div[@id='root']/main/header/div[2]/nav/ul[2]/li/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/akcii/')])[2]", "xpath:href"],
+        ["xpath=//ul[2]/li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "73479c63-3ad8-465a-a783-6f841f62cc72",
+      "comment": "",
+      "command": "click",
+      "target": "css=.stock_q4l3q:nth-child(1) img",
+      "targets": [
+        ["css=.stock_q4l3q:nth-child(1) img", "css:finder"],
+        ["xpath=//div[@id='content']/div/div[3]/a/div/img", "xpath:idRelative"],
+        ["xpath=//div/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ae01ae48-9b34-49c8-84c2-9f1cbddf400b",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b1933210-6068-493e-8ab5-6f1d2c651e22",
+      "comment": "",
+      "command": "click",
+      "target": "css=.menu-container_2LIAJ > li:nth-child(1) span",
+      "targets": [
+        ["css=.menu-container_2LIAJ > li:nth-child(1) span", "css:finder"],
+        ["xpath=//div[@id='root']/main/header/div[2]/nav/ul[2]/li/a/span", "xpath:idRelative"],
+        ["xpath=//ul[2]/li/a/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a092b7d0-e591-4886-89a5-bf6ae028675d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.stock_q4l3q:nth-child(5) img",
+      "targets": [
+        ["css=.stock_q4l3q:nth-child(5) img", "css:finder"],
+        ["xpath=//div[@id='content']/div/div[3]/a[5]/div/img", "xpath:idRelative"],
+        ["xpath=//a[5]/div/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2cd35939-06f7-47b8-8a0f-58468cd878d6",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,16)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d5e932f0-0803-4062-845d-65b6b416d6ba",
+      "comment": "",
+      "command": "click",
+      "target": "css=.menu-container_2LIAJ > li:nth-child(1) > a",
+      "targets": [
+        ["css=.menu-container_2LIAJ > li:nth-child(1) > a", "css:finder"],
+        ["xpath=//div[@id='root']/main/header/div[2]/nav/ul[2]/li/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/akcii/')])[2]", "xpath:href"],
+        ["xpath=//ul[2]/li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3e6dbdca-d03c-4f29-8872-738a93405ab9",
+      "comment": "",
+      "command": "click",
+      "target": "css=.stock_q4l3q:nth-child(11) img",
+      "targets": [
+        ["css=.stock_q4l3q:nth-child(11) img", "css:finder"],
+        ["xpath=//div[@id='content']/div/div[3]/a[11]/div/img", "xpath:idRelative"],
+        ["xpath=//a[11]/div/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "000faa57-e43f-424a-8efb-50e766cc0da6",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,16)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "80c86352-c10b-4c17-bd08-cb64df5a6085",
+      "comment": "",
+      "command": "click",
+      "target": "css=.menu-container_2LIAJ > li:nth-child(2) span:nth-child(1)",
+      "targets": [
+        ["css=.menu-container_2LIAJ > li:nth-child(2) span:nth-child(1)", "css:finder"],
+        ["xpath=//div[@id='root']/main/header/div[2]/nav/ul[2]/li[2]/a/span", "xpath:idRelative"],
+        ["xpath=//ul[2]/li[2]/a/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c1e93f04-b128-43e6-a30c-c3374ff7b211",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=О нас",
+      "targets": [
+        ["linkText=О нас", "linkText"],
+        ["css=.links__q2zP > a:nth-child(1)", "css:finder"],
+        ["xpath=//a[contains(text(),'О нас')]", "xpath:link"],
+        ["xpath=//div[@id='content']/footer/div/nav/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/about/')]", "xpath:href"],
+        ["xpath=//nav/a", "xpath:position"],
+        ["xpath=//a[contains(.,'О нас')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "268069e7-9d13-46a3-885a-6aea0714c849",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Отзывы",
+      "targets": [
+        ["linkText=Отзывы", "linkText"],
+        ["css=.links__q2zP > a:nth-child(2)", "css:finder"],
+        ["xpath=//a[contains(text(),'Отзывы')]", "xpath:link"],
+        ["xpath=//div[@id='content']/footer/div/nav/a[2]", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/reviews/')]", "xpath:href"],
+        ["xpath=//a[2]", "xpath:position"],
+        ["xpath=//a[contains(.,'Отзывы')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "6a5162e9-5cba-4f99-8582-9f929039bd16",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "cf6a888b-5f75-41da-a95f-a7e84ef38e41",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Франшиза",
+      "targets": [
+        ["linkText=Франшиза", "linkText"],
+        ["css=.links__q2zP > a:nth-child(3)", "css:finder"],
+        ["xpath=//a[contains(text(),'Франшиза')]", "xpath:link"],
+        ["xpath=//div[@id='content']/footer/div/nav/a[3]", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://franshiza.pizzamafia.ru/')]", "xpath:href"],
+        ["xpath=//nav/a[3]", "xpath:position"],
+        ["xpath=//a[contains(.,'Франшиза')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "fb525120-1b93-4c5b-a133-22cb84f48946",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["f8d93b08-2a30-41d5-96c4-f958331de986"]
+  }],
+  "urls": ["https://3332222.ru/"],
+  "plugins": []
+}
