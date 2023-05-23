@@ -1,0 +1,230 @@
+{
+  "id": "3edd1e84-8e19-4746-8bc1-835ff1fb92af",
+  "version": "2.0",
+  "name": "test side sushiwok",
+  "url": "https://sushiwok.ru",
+  "tests": [{
+    "id": "1b720b1a-17c4-43e9-a79a-f0955edf97ae",
+    "name": "Sergey-Vladimirovich",
+    "commands": [{
+      "id": "6dc7dcb2-fe89-4fe7-9119-38ef91276c64",
+      "comment": "",
+      "command": "open",
+      "target": "/spb/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "31d32025-5799-492a-a55f-6ff4dd3a20d4",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1552x832",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3dd28eaf-ba05-48d1-b90a-9e965b11e327",
+      "comment": "",
+      "command": "click",
+      "target": "css=.MainSlider-module__prev--lb4LY",
+      "targets": [
+        ["css=.MainSlider-module__prev--lb4LY", "css:finder"],
+        ["xpath=//div[@id='root']/div/div[4]/div/div/div/div", "xpath:idRelative"],
+        ["xpath=//div[4]/div/div/div/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f9619cfa-87e0-49ac-9b9d-1f240e32aabc",
+      "comment": "",
+      "command": "click",
+      "target": "css=.MainSlider-module__prev--lb4LY",
+      "targets": [
+        ["css=.MainSlider-module__prev--lb4LY", "css:finder"],
+        ["xpath=//div[@id='root']/div/div[4]/div/div/div/div", "xpath:idRelative"],
+        ["xpath=//div[4]/div/div/div/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "63890006-d277-4888-9096-afb1d466722b",
+      "comment": "",
+      "command": "click",
+      "target": "css=.MainSlider-module__prev--lb4LY",
+      "targets": [
+        ["css=.MainSlider-module__prev--lb4LY", "css:finder"],
+        ["xpath=//div[@id='root']/div/div[4]/div/div/div/div", "xpath:idRelative"],
+        ["xpath=//div[4]/div/div/div/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "446d73f3-b58c-464d-be72-2eb315e4f98b",
+      "comment": "",
+      "command": "click",
+      "target": "css=.MainSlider-module__prev--lb4LY",
+      "targets": [
+        ["css=.MainSlider-module__prev--lb4LY", "css:finder"],
+        ["xpath=//div[@id='root']/div/div[4]/div/div/div/div", "xpath:idRelative"],
+        ["xpath=//div[4]/div/div/div/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d3f4f778-7262-444d-acfe-9125c84ffdd8",
+      "comment": "",
+      "command": "click",
+      "target": "css=#\\421\\43B\\43E\\439_1 path:nth-child(2)",
+      "targets": [
+        ["css=#\\421\\43B\\43E\\439_1 path:nth-child(2)", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "349006bb-c8a9-4c07-862a-11f63e0e9b9a",
+      "comment": "",
+      "command": "click",
+      "target": "css=.icon-rolls",
+      "targets": [
+        ["css=.icon-rolls", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "81557594-39c9-4b71-bf3a-91f201447318",
+      "comment": "",
+      "command": "click",
+      "target": "css=.icon-baked > use",
+      "targets": [
+        ["css=.icon-baked > use", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "db9e5147-26ec-441c-9f76-35699e484704",
+      "comment": "",
+      "command": "click",
+      "target": "css=.sticky-menu__inner--animated",
+      "targets": [
+        ["css=.sticky-menu__inner--animated", "css:finder"],
+        ["xpath=//div[@id='root']/div/div[2]/div/div/a[5]", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/spb/menu/kitajskaja-lapsha-wok/')]", "xpath:href"],
+        ["xpath=//div/div/a[5]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "81f0c941-79f4-4b04-b658-3a62f523214b",
+      "comment": "",
+      "command": "click",
+      "target": "css=.icon-salads",
+      "targets": [
+        ["css=.icon-salads", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "0d776cd3-ca6f-4c82-b5c4-e0315e6abf9c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.main-menu__block > .main-menu__item:nth-child(1)",
+      "targets": [
+        ["css=.main-menu__block > .main-menu__item:nth-child(1)", "css:finder"],
+        ["xpath=//a[contains(text(),'Акции')]", "xpath:link"],
+        ["xpath=//div[@id='root']/div/div[3]/div/div[4]/div[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/spb/akcii/')]", "xpath:href"],
+        ["xpath=//div[4]/div[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c9fa1168-f8f7-4b5f-a1ab-c914f7c9750c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.main-menu__item:nth-child(2)",
+      "targets": [
+        ["css=.main-menu__item:nth-child(2)", "css:finder"],
+        ["xpath=//a[contains(text(),'Меню')]", "xpath:link"],
+        ["xpath=//div[@id='root']/div/div[3]/div/div[4]/div[2]/a[2]", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/spb/menu/')])[14]", "xpath:href"],
+        ["xpath=//div[2]/a[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d7527456-8855-4d6e-9d47-564eb663ec61",
+      "comment": "",
+      "command": "click",
+      "target": "css=.main-menu__item:nth-child(4)",
+      "targets": [
+        ["css=.main-menu__item:nth-child(4)", "css:finder"],
+        ["xpath=//a[contains(text(),'Доставка')]", "xpath:link"],
+        ["xpath=//div[@id='root']/div/div[3]/div/div[4]/div[2]/a[4]", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/spb/delivery/')]", "xpath:href"],
+        ["xpath=//div[2]/a[4]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "9598ad0d-b7cf-4680-bdd8-6cae3c61dbc8",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "76821b73-9599-49d3-93d3-9731a839e57b",
+      "comment": "",
+      "command": "click",
+      "target": "css=.classToLink:nth-child(5)",
+      "targets": [
+        ["css=.classToLink:nth-child(5)", "css:finder"],
+        ["xpath=//a[contains(text(),'Франшиза')]", "xpath:link"],
+        ["xpath=//div[@id='root']/div/div[3]/div/div[4]/div[2]/a[5]", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://get.sushiwok.ru/?utm_source=sushiwok_ru')]", "xpath:href"],
+        ["xpath=//div[2]/a[5]", "xpath:position"]
+      ],
+      "value": "",
+      "opensWindow": true,
+      "windowHandleName": "win4429",
+      "windowTimeout": 2000
+    }, {
+      "id": "f2b9fd7f-bd25-4cea-8d64-f2ebf55bb2ec",
+      "comment": "",
+      "command": "storeWindowHandle",
+      "target": "root",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "399d9c7e-c215-4ea6-acaf-4e675709c7af",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${win4429}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "7b58aac0-d6f7-44f2-a641-04959c1b8f0d",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "416f9e26-4876-47e2-be8a-4d53e5d8b9fb",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${root}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f962b573-7e42-44c0-acac-b3eec6180a5d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.main-menu__item:nth-child(6)",
+      "targets": [
+        ["css=.main-menu__item:nth-child(6)", "css:finder"],
+        ["xpath=//a[contains(text(),'Вакансии')]", "xpath:link"],
+        ["xpath=//div[@id='root']/div/div[3]/div/div[4]/div[2]/a[6]", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/spb/vakansii/')]", "xpath:href"],
+        ["xpath=//div[2]/a[6]", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "483b4fa4-ce45-4552-931b-05485876d664",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["1b720b1a-17c4-43e9-a79a-f0955edf97ae"]
+  }],
+  "urls": ["https://sushiwok.ru/"],
+  "plugins": []
+}
